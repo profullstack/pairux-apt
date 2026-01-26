@@ -1,0 +1,20 @@
+Package: pairux
+Version: 0.1.7
+Architecture: amd64
+Maintainer: Profullstack, Inc.
+Installed-Size: 312359
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/p/pairux/pairux_0.1.7_amd64.deb
+Size: 83347384
+MD5sum: b383dc22104255c111c637ec25684f92
+SHA1: 282e3a32083ae00092a3bda335b74dc7b9e9b50c
+SHA256: 181adbc624df980c319ccda5723dae1ce0ba08f2bea55a3191b297bb9482f27f
+Section: default
+Priority: optional
+Homepage: https://pairux.com
+Description:
+  PairUX Desktop - Screen sharing with remote control
+License: unknown
+Vendor: Profullstack, Inc.
+

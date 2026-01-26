@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PairUX
+Label: PairUX
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: PairUX APT Repository
+Date: Mon, 26 Jan 2026 13:41:24 GMT
+SHA256:
+ b35ee29f97ecd692af278033acdaf6feb868562b561e51261f9b57c1654b1009 652 main/binary-amd64/Packages
+ 2dfbd13ef8ae6ff787ab0f646c7bc8773db73ccc2c6118f46f61d1d0a08324be 466 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEcHtZuMBnXpJ4/++UDfb6W5P40C4FAml3bwQACgkQDfb6W5P4
+0C6R9A//W3NdPjNDNes1BhSCLYMEjBMdo+aLjyFfrnvPD/HX9hqFKm+WCyRXXXhZ
+Ov+AKBOJ2kXGIXzxz+XmirMptoOFNI83BUte1Etzt/eGf0UuDHR24f5M14w0aTsi
+qwpvq6roJESU8wpW3P+uKJl8Dg3RNeyx3bXfU6ULOvvFfEmSCa4Zirs1nLUPFtlI
+jFUjFQm3rXXixHWbCWA0Ld7uOSY4GVh12tGZB2YFvRw1+WIjpVv/yJnpPclAW/XD
+HZJ6Na2veXd7O87QNSr/zT9RaVkm7vv1r1hZcJcqCrDaD4lXwAz6up1E8g2VyvXu
+DxQoEiBtVmz8aI+g/eGrGaBKu+Tmhc8pvLEWffsa26I0xUDRfcCba2TxwSabACW9
+WaTqEBvQYuizAPMSFoGsYbdUImGrT02foD+/xmhyaYl+wWhpwsNw0UW1YDnpUZt+
+gIgkxVX0695DIDlvT2r2Z8yOqZ2QH7zR40EUfbNS8wCJ61jW67C+SneRQi0Q6/yp
+/WogYHzSWrZwr0WXFjSsB5FllfkBH87b006kyqYyHvsoFmyxERZ1eAPCAFEY52n5
+Wd4uQA07uZS7sVnWAYKyjtWP83n1OJV6UJaZKjmyNMMX3tpxW8GNBc3ejFKalVHe
+1KzNo4cXHn7j5N3o3A2GZaxizGZODaEZ0Kc7FvIv0s+hvFh7ND0=
+=aOdW
+-----END PGP SIGNATURE-----
