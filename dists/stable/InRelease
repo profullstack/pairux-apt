@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 27 Jan 2026 04:56:43 GMT
+Date: Tue, 27 Jan 2026 06:26:12 GMT
 SHA256:
- 420b096bca9ed0ba7392172de14b6e22c874de558ffc8ca6b47c4f56c13a912c 652 main/binary-amd64/Packages
- 3add799a56d43cb38e157f0a127c6767b6157e2c656f344ad64da1f93c3b23e6 466 main/binary-amd64/Packages.gz
+ 38237d62fae76fa53be882ce12502ca3aa42c84d166ff35418abb4b526d4d950 652 main/binary-amd64/Packages
+ 7ba2708d252ea12b378d0e86ebaa6167fc3ad6e48a4ae65794e22004b30a572d 468 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXhFjAAKCRBpk2+y4h6O
-E4jjAQC59e8jYpD/bcD/fPX4NPMeImTfuZRfcizQULPP7fEyVAEAsSRMqjBQGZ9R
-QrA4IlbqJK6SVAhf0gT2jQ5biEnApAg=
-=x+Jj
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXhahQAKCRBpk2+y4h6O
+E9lpAP97XqMTyknZw9/xmRkaewXLtQ4vUYwb2cEGfw1EnJO9/gEAvbKv0ykFOBBq
+ceI38JDo1U8KdtmeuZmu/zs1zrcI5gY=
+=2RNm
 -----END PGP SIGNATURE-----
