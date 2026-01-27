@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 27 Jan 2026 00:35:35 GMT
+Date: Tue, 27 Jan 2026 00:50:14 GMT
 SHA256:
- 9a1058b281a9a0023b60b572ba15a4728fe74b4326fc181876941bee20e8dc13 654 main/binary-amd64/Packages
- 86c6e72e69d72d8df4badebd61225d0838ebbdaf1afde8b0d32c26c60948b6f2 468 main/binary-amd64/Packages.gz
+ f26d91551df8933a011e92ca51755fd180b2230b7db4d0e90649ef7686b50857 654 main/binary-amd64/Packages
+ b01de951292485c779d8f5bea845c0a8525d85a1ada58a3fc84e4b6f52d9f11d 465 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXgIWAAKCRBpk2+y4h6O
-EzlVAQC8tVDrZ/NW3rhS4doKxZb1Ogj0TzwCd1zOnfn/vQLH1QEA/R9QloDr83JL
-h1gjT40jfPmv3eZkJZfiKaUUeH8LaQo=
-=aYAu
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXgLxwAKCRBpk2+y4h6O
+E/zEAQDByJYeMfElNEBYkBMuckmsDXVQs81Ls6bWfBZujswGywEA2CMzUIxdsVdW
+d8LoVm1Cz6KobdTbjPFIRUXLUVbtOAc=
+=MPo6
 -----END PGP SIGNATURE-----
