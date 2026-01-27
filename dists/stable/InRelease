@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 27 Jan 2026 03:03:31 GMT
+Date: Tue, 27 Jan 2026 04:03:40 GMT
 SHA256:
- 9fbf7a9e9c9d3bc560697fbe64ee76412c51a04406461b3c6af69781c2daa494 654 main/binary-amd64/Packages
- ec87d1afb65a786b03a1cbc81c44c939c8856a6bd1995c85a9e2ba5b07116906 466 main/binary-amd64/Packages.gz
+ 5519c697baa2287c63467b9699f16a785b83280d1577a93918515a42f5f63b1c 652 main/binary-amd64/Packages
+ 899df0eed92ed2859b0b2d555dbf62f0783b8f58de4d26c2660201f5a90db4ca 467 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXgrBAAKCRBpk2+y4h6O
-E82QAP0WyqzGDtFPe2zHUec6+b1JjIYufGBlaRZkwGtYyQbz4gD/cTWBSBuEe2T2
-1NWng3rIVvdLpyeBvYTFDCpFfWMgGg0=
-=AQZ7
+iHQEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXg5HQAKCRBpk2+y4h6O
+E0oDAP9iBNMyk5Wv64F65p411zL9G46mqEeNx3ZZlhcYLPy3twD3dECrXN0jwYOX
+6sEED+6qIM3tkxl9xDUhps5oEi37Bw==
+=jVC2
 -----END PGP SIGNATURE-----
