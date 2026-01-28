@@ -1,15 +1,15 @@
 Package: pairux
-Version: 0.2.10
+Version: 0.2.11
 Architecture: amd64
 Maintainer: Profullstack, Inc.
 Installed-Size: 309423
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: pool/main/p/pairux/pairux_0.2.10_amd64.deb
-Size: 83134774
-MD5sum: 4393af5e0dc3a38035770d21f0bd317e
-SHA1: b74ee3994bf9f7a0acc0729c50b45ff4a3e334d0
-SHA256: f9236ca36b9ef170ccc5dcfa8221ea596009c2544456ecbad99afe8fc4f2a597
+Filename: pool/main/p/pairux/pairux_0.2.11_amd64.deb
+Size: 83139512
+MD5sum: 4682a7238515045a6270e363529b3aec
+SHA1: 39b53f16082410b0be4ba8babe2f6dab1b47725e
+SHA256: d0bac8693fc3a9dd008af059c56e88f2b91b879abe6dadbe9bb1ca1c9bee8e01
 Section: default
 Priority: optional
 Homepage: https://pairux.com
