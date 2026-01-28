@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Wed, 28 Jan 2026 07:40:33 GMT
+Date: Wed, 28 Jan 2026 08:20:26 GMT
 SHA256:
- 60018447950fa08192f970700f8e7635d308e8c3abd1285d78a8dface37d82e8 652 main/binary-amd64/Packages
- 884ba23b6548d8ceb01e74bc61d3280097277607f99e36bd3d7f9655d3081094 467 main/binary-amd64/Packages.gz
+ 0712632f43b9f7f5dfec921be569d71d8d48c92202d17c44bf89a0802f733750 653 main/binary-amd64/Packages
+ ff75d1236321ac8ccf4dfc32da9956c35cf5bee78e2e2de12dc198e8b0c67aea 467 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXm9cgAKCRBpk2+y4h6O
-E9tKAQCef5YYARXaudkTH9qQ6j7QO+cQkmWBU/VmUbtYLZBg2gD8DsBz9SuwYNvD
-oWbA92LhBDXrR7UfUOS521Cp2C7VXws=
-=eIIe
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaXnGywAKCRBpk2+y4h6O
+EzSsAQC4lyw+xDcbG+V1G1DUIJ256pn9vniPq0N7TJCm+F3vlwEA/ZpKx63039iw
+h3igcyW42UDrP6UgD/P9UHUb9NiCfAM=
+=Wg6a
 -----END PGP SIGNATURE-----
