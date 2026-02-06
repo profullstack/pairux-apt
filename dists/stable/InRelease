@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sat, 31 Jan 2026 13:27:42 GMT
+Date: Fri, 06 Feb 2026 05:13:27 GMT
 SHA256:
- 9019b34829ffb205d67e003be390a24ac25103d6c3a992db2de7c04855adfabd 652 main/binary-amd64/Packages
- b4fdc4c9b10cd1e571dce33fa6d0e71b4e735261e91779d6e3476e6aee768f46 468 main/binary-amd64/Packages.gz
+ b686c3d7045350746d4967ff1a333310d08cc643f0cd44a414f89c03397588cc 652 main/binary-amd64/Packages
+ bda6275b701c63c2e40352af7460e54619fb7faea1fd880125366f26e9c7f435 466 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaX4DTwAKCRBpk2+y4h6O
-E0xhAQDNg+yX7YuyxS8QZEYZihm04J9m/wxFqKjN0bjTWNLVpQD/aMCigZ3kNmnt
-1NmMGoBz0OfgsF8XRGMOezn6G3riZQo=
-=3Pae
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaYV4eAAKCRBpk2+y4h6O
+ExdrAQCAUzPdx7e8w6qY4getOPkrmpzfGfEunyLd8akomTji5gEA8XaFkzF0amp2
+rln+Hg7WKUNenBl9nYpxNE5v7ZlfnwA=
+=F6AN
 -----END PGP SIGNATURE-----
