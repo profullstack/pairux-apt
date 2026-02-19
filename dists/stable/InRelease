@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 19 Feb 2026 13:31:10 GMT
+Date: Thu, 19 Feb 2026 14:06:19 GMT
 SHA256:
- 8a8bcd6e8e34a5d9c83f07ede9fb76c2b2c95d74270476cb3a09add7dc7244e3 652 main/binary-amd64/Packages
- f05907f9cbe87b0221ef07da81a4e118ca7c9ac5fdeacec5784c27af31a3f4e7 467 main/binary-amd64/Packages.gz
+ 26c75250852986cfcd989eb9469270d9bbedbe0abb16e28ab2728939fd469eaf 654 main/binary-amd64/Packages
+ 51454a5f5570055b9ada7375da4846cf3fbf6cf6c008391c98796b834efa0218 467 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZcQnwAKCRBpk2+y4h6O
-E98gAPoDXf48vJHAeCd5K8Rpd8HMLUBM4fCC0Qy+AWngP5F7+gD/aixU2/dh4Mzy
-4zppOBoajDLJ12PUl1OxnyKrNdjIWAI=
-=jiTy
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZcY3AAKCRBpk2+y4h6O
+E8wXAQDOddxwdyHING6m79mfsiJWB04z/qFLqVH47CEtaDOoWgEAtP6gF04zc6yX
+TIwkhec3aMy8qU7Mu0VLKXlkTYf3/gQ=
+=kt5O
 -----END PGP SIGNATURE-----
