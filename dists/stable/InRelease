@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 19 Feb 2026 14:06:19 GMT
+Date: Thu, 19 Feb 2026 14:20:26 GMT
 SHA256:
- 26c75250852986cfcd989eb9469270d9bbedbe0abb16e28ab2728939fd469eaf 654 main/binary-amd64/Packages
- 51454a5f5570055b9ada7375da4846cf3fbf6cf6c008391c98796b834efa0218 467 main/binary-amd64/Packages.gz
+ 92a9aff4f0f486c9591f6203faf725043b3cdfec61a9ca286634811469066a0f 654 main/binary-amd64/Packages
+ 4613bedf22cd841476a48a2921257259356d3e645347269d063ba028c991d9f6 466 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZcY3AAKCRBpk2+y4h6O
-E8wXAQDOddxwdyHING6m79mfsiJWB04z/qFLqVH47CEtaDOoWgEAtP6gF04zc6yX
-TIwkhec3aMy8qU7Mu0VLKXlkTYf3/gQ=
-=kt5O
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZccKwAKCRBpk2+y4h6O
+E4nGAP9et+8iZzIYD7J0K5bPTMW/zYh7acAVvfrQngftkaw5bgEAusQ9Rzac8JTQ
+mf1pghfpybKQXTIaFozdW36Pe79TxQ0=
+=OzoY
 -----END PGP SIGNATURE-----
