@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 19 Feb 2026 14:20:26 GMT
+Date: Thu, 19 Feb 2026 17:18:26 GMT
 SHA256:
- 92a9aff4f0f486c9591f6203faf725043b3cdfec61a9ca286634811469066a0f 654 main/binary-amd64/Packages
- 4613bedf22cd841476a48a2921257259356d3e645347269d063ba028c991d9f6 466 main/binary-amd64/Packages.gz
+ 6bdbca9310c08c68d188511ab58ec2a7566e16bf34161e33263d895e2d4af90a 654 main/binary-amd64/Packages
+ 65d23dcadc21dd3dc3fdeed95eb9cd7731060d5eaa0b66bd0b9bdf6dd3046b05 469 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZccKwAKCRBpk2+y4h6O
-E4nGAP9et+8iZzIYD7J0K5bPTMW/zYh7acAVvfrQngftkaw5bgEAusQ9Rzac8JTQ
-mf1pghfpybKQXTIaFozdW36Pe79TxQ0=
-=OzoY
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZdF4wAKCRBpk2+y4h6O
+Ey1eAPwODRBKV8u+rxzihJo1CUGY+YOouZxifkcGARj5NMXOwQEAuxwCHVi8xJYV
+h1pnu5uX7xviPvE+ImSupvtOS6YG+Ag=
+=sCxi
 -----END PGP SIGNATURE-----
