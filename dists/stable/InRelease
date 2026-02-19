@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 19 Feb 2026 13:23:27 GMT
+Date: Thu, 19 Feb 2026 13:31:10 GMT
 SHA256:
- ccbfbe3241e06bcdeb716ce8cf1b6b664f5ad8b6fb4aa7fd9c0c1549153d6f19 652 main/binary-amd64/Packages
- 209946c37cdf9c3b709a6d708cec4fe142c6eb5e023c78cb0f61496524409897 467 main/binary-amd64/Packages.gz
+ 8a8bcd6e8e34a5d9c83f07ede9fb76c2b2c95d74270476cb3a09add7dc7244e3 652 main/binary-amd64/Packages
+ f05907f9cbe87b0221ef07da81a4e118ca7c9ac5fdeacec5784c27af31a3f4e7 467 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZcO0AAKCRBpk2+y4h6O
-EwrwAQCQtnr4Flioh9LRfdPdDRewUQCbroV/TFHAbV/bYlhQEQD8CKP2jeLEWX4P
-CI9/ymwkcfR8SW89vhkjVE3PMvgqJgk=
-=Uu1s
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZcQnwAKCRBpk2+y4h6O
+E98gAPoDXf48vJHAeCd5K8Rpd8HMLUBM4fCC0Qy+AWngP5F7+gD/aixU2/dh4Mzy
+4zppOBoajDLJ12PUl1OxnyKrNdjIWAI=
+=jiTy
 -----END PGP SIGNATURE-----
