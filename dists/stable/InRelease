@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Mon, 23 Feb 2026 15:05:02 GMT
+Date: Mon, 23 Feb 2026 15:30:17 GMT
 SHA256:
- ca4071e1978ee48348f8b312b3c9804e242e80d634ec56faddafccc1cbb883e8 654 main/binary-amd64/Packages
- cfecdec3f04fa645488f1c1e9b9c49efdb42a9937f5fc9038e00479b3b74278a 466 main/binary-amd64/Packages.gz
+ 53d5c406a399ba4905107ead9c378ec8f66a310ce54b2e97708d3a50f791cee8 654 main/binary-amd64/Packages
+ 1cdd74a4568262382f76f8094d7aa62390e54f26f6a12e8428390558c880fddf 470 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZxsnwAKCRBpk2+y4h6O
-E225AQD8p1YfMJ2rGmHAckpPKiiyzWbMvxhMELn4aTXF5jSCWgEAgvE25a/PrGrn
-GdqTYmuyMmZ2wVmcLrXwYfYiRUU80QM=
-=y2mP
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZxyigAKCRBpk2+y4h6O
+E0j9AQDR8drL8PEB3e7JABV93BX+uU4+YtcLcw1xLX7X8UzazwEAyq5Y9DSzisxl
+o34qr5qWglIx3nvVmk4+Trsu+1oW5A0=
+=xDOK
 -----END PGP SIGNATURE-----
