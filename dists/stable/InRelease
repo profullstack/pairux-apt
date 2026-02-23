@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Mon, 23 Feb 2026 12:20:03 GMT
+Date: Mon, 23 Feb 2026 12:32:20 GMT
 SHA256:
- bb562f899b68cab227d24c2bd798954ef8eaabaaebf5a8711ea536f362a23129 654 main/binary-amd64/Packages
- b55234abfc905c201e042813c9350a283e26ef36c666590a80d5166a6d75bc4a 468 main/binary-amd64/Packages.gz
+ e577abc86ae164ea8c5aa25bab992847538820c06b329aed7aba737c4ebd54a2 654 main/binary-amd64/Packages
+ 1e4277dec1eee3461eea0963e5800f2b27825ec3ce678fcc84886ed181dea0a0 468 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZxF9AAKCRBpk2+y4h6O
-E8foAP9rTiboZ38gjYODg/fmfNCBksBu4X0ZL5cKDtoskqTBXwD/Qt4dCspfyEFX
-RGH9X0s7FMOnTsvhDyv+abYOL9hBWw0=
-=a5gH
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZxI1QAKCRBpk2+y4h6O
+E1cOAQDxX1ZRs9ICkaU87nKOBIRMRr87ooToXgj5TswppvohGgD9HgK69DMhG8bC
+nnmpBtwpRqTnWA8HNHJWSXE5qhsThA0=
+=FR0m
 -----END PGP SIGNATURE-----
