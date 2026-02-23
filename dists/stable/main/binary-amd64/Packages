@@ -1,20 +1,15 @@
 Package: pairux
-Version: 0.5.28
+Version: 0.5.29
 Architecture: amd64
-Maintainer: Profullstack, Inc.
-Installed-Size: 318485
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: pool/main/p/pairux/pairux_0.5.28_amd64.deb
-Size: 96139352
-MD5sum: 6c17f1e106b07715684d0b03d087de2c
-SHA1: 2c2e8147479ed06327d609d6a4fcdbeda85cb468
-SHA256: 4612aa7932ee33620a4efa23a3483170a239ba0b6e6916b0028007d83ddc040f
-Section: default
+Maintainer: PairUX Team <hello@pairux.com>
+Installed-Size: 93887
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1
+Filename: pool/main/p/pairux/pairux_0.5.29_amd64.deb
+Size: 96139464
+Section: net
 Priority: optional
 Homepage: https://pairux.com
-Description:
-  PairUX Desktop - Screen sharing with remote control
-License: unknown
-Vendor: Profullstack, Inc.
+Description: Collaborative screen sharing with remote control
+ PairUX enables real-time screen sharing with simultaneous local
+ and remote mouse/keyboard control for pair programming and collaboration.
 
