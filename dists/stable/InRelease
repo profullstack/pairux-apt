@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Mon, 23 Feb 2026 19:40:03 GMT
+Date: Mon, 23 Feb 2026 20:13:25 GMT
 SHA256:
- 4c809dbd7da4ca9768dab0fe2d59392cea0322c1887a5f429773bfd94c462eab 654 main/binary-amd64/Packages
- 664a71733c8516a0a82785d6611a82db755dddc398cc948778ba0f53c7ffbc77 468 main/binary-amd64/Packages.gz
+ 4881be4a031f68948d82ae61475bdfeb0f7bd3c4c7e1f2f9d6ccf8f96f29696e 654 main/binary-amd64/Packages
+ 2ad12c0c3e7f8e85b5b6005a14d66b353cb3aa49e0c0ad0bdecaa6284f92231a 469 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZytFQAKCRBpk2+y4h6O
-E1jmAQDVYrjmPgYw/xLystFthV8LTWcOIUocKAKluzQgagB9xQD/SxwWB/TQacxy
-Ake17ae5lClQlMvXCIsmm0Q829w2ZQg=
-=m5rT
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZy05gAKCRBpk2+y4h6O
+E4s+AQDpgv6/XyV+S0Nys3dNBHltWngT1BCnZcPg6W2cPyd8QAEAvtmjZVmBO6cD
+GMYrklyONAhYIXmL9vr+30707zsJVgc=
+=P990
 -----END PGP SIGNATURE-----
