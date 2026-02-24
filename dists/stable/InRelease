@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 24 Feb 2026 14:16:39 GMT
+Date: Tue, 24 Feb 2026 14:47:21 GMT
 SHA256:
- 73bb1450e6f2cc9a9a0334bdd90622ddf5fe8b0f69137051663c76b13d60889d 637 main/binary-amd64/Packages
- 0b1d67ae4a28efb24253a358419971307f8c10e6836e6d4e8c3af9d4e18070c8 460 main/binary-amd64/Packages.gz
+ 702c8604b7454e5e9694f3a9769ccd8f1e08055b65c8fc6e9a34be4e752851dc 637 main/binary-amd64/Packages
+ 63dc408fb4ff1d92981b8e21061e48691a5ce2ceccffaadd7d5ae58024f59a54 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZ2yyAAKCRBpk2+y4h6O
-EwWzAP9aut47K8GkUA9DkkznRMcTDKOTyZPh7jldTrZkcHn8zgEAvjrdXcW8Rq0z
-rLuNnKZoaa1eX+QA54xQrAgpC7IBuwM=
-=iS7b
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZ25+gAKCRBpk2+y4h6O
+E+W4AP9MA+xy6w58F/HHXKW3b9tvOo2PlZ3cgkgqADkfdc3MQwD9EColOONRt03c
+e57PgVweyRjl8FVqLHM/QKoBlLdlkAc=
+=OTba
 -----END PGP SIGNATURE-----
