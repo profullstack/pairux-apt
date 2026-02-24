@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Mon, 23 Feb 2026 22:11:07 GMT
+Date: Tue, 24 Feb 2026 10:49:32 GMT
 SHA256:
- f9194d94e2e56695a055f9abf08f1ed34360b3049cee613539cded39978e5574 654 main/binary-amd64/Packages
- 55d79e6617cbc78b50f6905419d0d0bafb05fc327befa844cfd27b62a0c9ebd3 469 main/binary-amd64/Packages.gz
+ e4a150f34877cadea5e4167b3327a6649eaacc328ae65de21ce539a0751a6f58 654 main/binary-amd64/Packages
+ d29f0e75b9700694bb75586db51742b69bc3457e36c5f9bd8eaa13f44e0481c7 467 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZzQfAAKCRBpk2+y4h6O
-EzBbAQCZN4QPBjTJ2wg4jVSrZ7Vz7VpuDeu0V6P+XaEkofd7aAD8CuaYUYwyC2mM
-HB5dNKdEzVeCIyh8wQ5NgPonTiFXNAw=
-=YoZ0
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZ2CPQAKCRBpk2+y4h6O
+E/0xAP4n6RrFewgiSeEnEiczU46Gi9/c8pVt3pjbfzqzDE0vSQD9HEFcB85gjc1E
+Y0bMvFTOEliJvlp3VpeNcm/V9wKS2wY=
+=BtiU
 -----END PGP SIGNATURE-----
