@@ -12,4 +12,7 @@ echo "deb [signed-by=/usr/share/keyrings/pairux.gpg] https://profullstack.github
 # Install
 sudo apt update
 sudo apt install pairux
+
+# Optional (Wayland remote control helpers)
+sudo apt install xdg-desktop-portal ydotool
 ```
