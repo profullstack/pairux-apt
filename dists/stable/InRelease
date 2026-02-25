@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Wed, 25 Feb 2026 14:46:27 GMT
+Date: Wed, 25 Feb 2026 15:05:30 GMT
 SHA256:
- a64dc43075fa5464b1be791c765e70d1a376355ac0df4d8a0fe15a997af6a33c 637 main/binary-amd64/Packages
- f9b249b411422d6151a1d5fc113bf847b88383dab27713018b67122aaaa07aac 459 main/binary-amd64/Packages.gz
+ 965318a262969b3fd4d63db5a57db54255833a7a86a7da823cfcd04353d54d1d 637 main/binary-amd64/Packages
+ 607986195b3237de1d89ca27d7bc880c53e16dd435664615fb4fc97586a3891b 457 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZ8LRAAKCRBpk2+y4h6O
-E3tpAQDbJsgHtNlS6XEdRxHoy9aXCwYV2EJted2TvusOXVYLvgEA9RpuZsXeDePn
-QdM6hzI4mY8wu913ptd9/pBbyLbnZgI=
-=jzof
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaZ8PvAAKCRBpk2+y4h6O
+Ewu3AQDEDqxQv/OJwy0ok3cc7VCI8WZbkTpkU5Suxc6uUL5urwD9GkchYaIf0MjC
+yQA5/u9v0w3QlzCWV+SogLOVy558kgc=
+=henz
 -----END PGP SIGNATURE-----
