@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Mon, 02 Mar 2026 12:32:32 GMT
+Date: Thu, 18 Jun 2026 13:08:20 GMT
 SHA256:
- 667b62ade4b7fc90a81bcfab7b33909e18908072eed67b0b69205280227ce09a 637 main/binary-amd64/Packages
- d8c2273273a14062e8f459ec305f19a2d853f317dde0e111cf909dce680364cc 460 main/binary-amd64/Packages.gz
+ bf90073d443dabaaacafccbfbead04d962835ca31260df4d8b95822377103c74 639 main/binary-amd64/Packages
+ da3e5347ddeea0f00be593f50c342505df62b53b6023e8553e31f1609196974f 462 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaaWDYQAKCRBpk2+y4h6O
-E9+bAP9vJjN0kzaJ1M+1cjXk2PRZ2flh9c8BXq1+XCJ6i0Jv0gD/XJbVGWeSel89
-KDRcll9hIqiSmPR8JnpxBjyCWr+2Rw4=
-=xWG2
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajPtxQAKCRBpk2+y4h6O
+E4XXAP9VWkljVIvx2TD4H1XZamzG39Zei7e6Jn7Sh/E6JqW7lAEA33CYTg/EG5cL
+UNAjtET3R6Q1aL1I6QBmXFrtrow3Zg8=
+=GEIU
 -----END PGP SIGNATURE-----
