@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 18 Jun 2026 16:49:33 GMT
+Date: Thu, 18 Jun 2026 17:45:52 GMT
 SHA256:
- 430a11408360aad5b978200ae034dff43f5a415c9fff4f3b0fb2cb93a4ec68f2 639 main/binary-amd64/Packages
- d8c0a496bd87d788b4d0a4f776bc2c415ce4c591e390c48ad1933ebb5549cca3 461 main/binary-amd64/Packages.gz
+ 0d2878c8affbff008eb33f10bea69854488f3333037c01971f1af58dd51d6617 639 main/binary-amd64/Packages
+ e8e78994e080638a0feb119ea4d8ff7f2496af52101fb6b8e1b001a0ff47e637 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQhngAKCRBpk2+y4h6O
-E6wGAPsE6QLT++fgggnSz1nG50ApEpKFTFIBwpiY1v5SmjWsvQD9GG2FHLDET/Q5
-MrhIPp4Go/+vU+kGM7dQISD1R5mFDQk=
-=rTXS
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQu0QAKCRBpk2+y4h6O
+E/BjAQCr+SZDiTw8GgylJ1DYWiwrkaWsaAwfYnQ4h6nxui/IaAEAs2qzJhAzGQGT
+TTv/GoZAynf2l09MqWEnJ6fXPlLgzwo=
+=lWvF
 -----END PGP SIGNATURE-----
