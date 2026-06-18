@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 18 Jun 2026 17:45:52 GMT
+Date: Thu, 18 Jun 2026 18:23:10 GMT
 SHA256:
- 0d2878c8affbff008eb33f10bea69854488f3333037c01971f1af58dd51d6617 639 main/binary-amd64/Packages
- e8e78994e080638a0feb119ea4d8ff7f2496af52101fb6b8e1b001a0ff47e637 460 main/binary-amd64/Packages.gz
+ 0d9b11c83e59531ba62fa0af99b9abe232b3f4105ad5841f6120779843c87043 639 main/binary-amd64/Packages
+ 43f2ec0b480c3801e0cb56aff35734e8edf416af46d2a46427fe3bfb3770a94a 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQu0QAKCRBpk2+y4h6O
-E/BjAQCr+SZDiTw8GgylJ1DYWiwrkaWsaAwfYnQ4h6nxui/IaAEAs2qzJhAzGQGT
-TTv/GoZAynf2l09MqWEnJ6fXPlLgzwo=
-=lWvF
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQ3jwAKCRBpk2+y4h6O
+E4g9AP0RGOiZJkV4oQkwRAEnxORJ/8gaFAFVoQpjeZ71mOSHQQEAoaY/euh+55Zh
+fjNOS6akv/STZ6V+iQbmJ9ozF1oRxQE=
+=gY2l
 -----END PGP SIGNATURE-----
