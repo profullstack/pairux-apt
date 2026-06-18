@@ -5,7 +5,7 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 18 Jun 2026 13:08:20 GMT
+Date: Thu, 18 Jun 2026 14:02:09 GMT
 SHA256:
- bf90073d443dabaaacafccbfbead04d962835ca31260df4d8b95822377103c74 639 main/binary-amd64/Packages
- da3e5347ddeea0f00be593f50c342505df62b53b6023e8553e31f1609196974f 462 main/binary-amd64/Packages.gz
+ 2d7b4e93065af3250eea4f42eaf9b25cdc2a1fd5371f15e0cd88e4474ca1c2aa 639 main/binary-amd64/Packages
+ 4d18ad65cc35144e13e187790d91cb34293ed092e757d7ed581536ab292697c4 459 main/binary-amd64/Packages.gz
