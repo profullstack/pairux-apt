@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 18 Jun 2026 15:59:16 GMT
+Date: Thu, 18 Jun 2026 16:49:33 GMT
 SHA256:
- ea2692ac99ad578820c6302e06dc0c702f449e7fd7f26f3d293700f7a8d3c79a 639 main/binary-amd64/Packages
- c4e59b6b41188cb3f48c7862834d7770b06e699c378cb193eb8e9c1c042a7ddf 461 main/binary-amd64/Packages.gz
+ 430a11408360aad5b978200ae034dff43f5a415c9fff4f3b0fb2cb93a4ec68f2 639 main/binary-amd64/Packages
+ d8c0a496bd87d788b4d0a4f776bc2c415ce4c591e390c48ad1933ebb5549cca3 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQV1QAKCRBpk2+y4h6O
-E8yRAP9TTEvq4LZzlja6g5Let6CUE0nmqp/KmffqGnJpsM07/wEA+FjiJi5bgDEJ
-BpMQ3VnoCa1p1e2s/ym1P5TQXvDQ/QA=
-=Cx2f
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajQhngAKCRBpk2+y4h6O
+E6wGAPsE6QLT++fgggnSz1nG50ApEpKFTFIBwpiY1v5SmjWsvQD9GG2FHLDET/Q5
+MrhIPp4Go/+vU+kGM7dQISD1R5mFDQk=
+=rTXS
 -----END PGP SIGNATURE-----
