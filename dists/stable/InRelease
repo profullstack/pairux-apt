@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 23 Jun 2026 08:24:48 GMT
+Date: Tue, 23 Jun 2026 08:50:56 GMT
 SHA256:
- c5062ecdf913f35ff58d5c8f0015a2f076b8f9f25123c246f2f77348903921ed 637 main/binary-amd64/Packages
- c7d36b1f0800d6d5f0c15e5f033ddc4881c3f2caf078ea121712280a4a30aae9 457 main/binary-amd64/Packages.gz
+ a959e3809bad20fcb050670875049df5d2a22d505030be5f4624815060bf9718 637 main/binary-amd64/Packages
+ bccc512ac3aa9326f3bda255b55c5ffd745c8b80e16c740e74d53ea57ea039c5 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajpC0QAKCRBpk2+y4h6O
-E6/rAQDXcoKDBcfxkr2ATrPT5e0g3CtKDxwyNCVNjlHowOBAIgD/fmc+WZdj/Wy+
-GhGbIjlrlCi796ct/R2EWk07XfF5ywc=
-=SpOe
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajpI8gAKCRBpk2+y4h6O
+ExFqAQDvB5lB3D7f2tsjETl3U5ljnz51lUCiAh0V9qEsdv8TOQD9HkamfD91mUQw
+DjpINkWazcWKinr4RfaEoaJBmvvgaQQ=
+=TG06
 -----END PGP SIGNATURE-----
