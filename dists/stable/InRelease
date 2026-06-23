@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 23 Jun 2026 10:48:07 GMT
+Date: Tue, 23 Jun 2026 11:06:07 GMT
 SHA256:
- 51ef3a59333a2abff735223f0715768f87d76e84e4cd62a3cfbaac101a1b5c4c 637 main/binary-amd64/Packages
- 397324c1ed294c1484a1d7f1d06ba28508948701dbf21615c3aa0d663ebba51f 461 main/binary-amd64/Packages.gz
+ e6b89a2e7da2aad945d3991c393dfc6a059b4bdc7cde002735030254e7b75e76 637 main/binary-amd64/Packages
+ 73fb7519802bac5ca50f512ec4481959b333bf4065332a52f076e429add45cf6 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajpkaAAKCRBpk2+y4h6O
-E1vaAP9ZT8e4EQKr/BP2YyrZ2daVnOtHynrlbsE4ugEbsxv/LAD+O+9g6lT9Bvhf
-PPNl+Pt2gdUE+v5gqIZ6kg8G4WimfAk=
-=GXfz
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCajpooAAKCRBpk2+y4h6O
+E3EPAQCwVGccbnwph97a9f/3otTUKK5k7Vahgwb/mr1uTtu1HgD+KVy43dX70I31
+QEVUZIcANAO/jL/SMFCLt/FuFwX3WgQ=
+=NpCY
 -----END PGP SIGNATURE-----
