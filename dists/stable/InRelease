@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Fri, 10 Jul 2026 10:06:27 GMT
+Date: Fri, 10 Jul 2026 12:25:28 GMT
 SHA256:
- d646c8da2dd92a5e8e9110be0662b3bf1140d68a96670e4a7445d2529edd72c7 637 main/binary-amd64/Packages
- b90d0807f7db6aa68a0d5f43b7242bb2a6e67330fd61e1379c4ed7331e28d0f2 460 main/binary-amd64/Packages.gz
+ 26740c857d498dc1942c2391236651d649786988e33925f043286c60c000e3f7 637 main/binary-amd64/Packages
+ c1b863a36c5487927c47b41786a643aee5de5b081196931c9d9a077f8516bb89 458 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalDEJAAKCRBpk2+y4h6O
-EzDZAQCh4VWlfUC4cWF//z06oUMgk5H4O+RLfD7jNYOzXLzViwD/fZMlcIEguRRX
-qhl/48iSP8j0Ijdh2kzGQgySP8QLGgY=
-=4x+X
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalDkuQAKCRBpk2+y4h6O
+E1nvAQCBQuhwRSewfhu7DSkkxXE5/nhThkGVWivymn7BUJw5zQD/fEhIq066KBrF
+JigmZ4jVD1KFn3B2XsTFfgakXoLz9wM=
+=xSLS
 -----END PGP SIGNATURE-----
