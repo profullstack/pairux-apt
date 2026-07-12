@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 09:10:21 GMT
+Date: Sun, 12 Jul 2026 09:16:53 GMT
 SHA256:
- ab73249c7e9187d2ab7a18d1c43cfb460ca6962c375f74abdf773697580c30da 637 main/binary-amd64/Packages
- 48060f593ac2e539a1371d51978946e7d5026f122b55393773bf41467401ebab 460 main/binary-amd64/Packages.gz
+ 023c61b5c5a4ef21a0893892f866f56ddb8837f5f5de1ab854eba90dcd8373ce 637 main/binary-amd64/Packages
+ cf28004a697e25ed52699cb0331474815f7a668dcf57075146056b85b3e8f77e 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNZ/gAKCRBpk2+y4h6O
-E9k0AP4gmLqi5cWcs2y5YPbXTfzNc+stbEA2hWRYyQeprrIdqgD/QI+IbeRFQ33n
-+Et6gd7iaoujfrnoFbyDTSWV2ZAiQw4=
-=U5dP
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNbhgAKCRBpk2+y4h6O
+E2XkAQDSRccg0LHHu7E8fD6DorHHPSbo9bMD920wC99gRXoCRAEA7sgmTpDEfDo6
+f9ZQv+hGDii5UZONToMCLJLbFjpCnQI=
+=z3Fp
 -----END PGP SIGNATURE-----
