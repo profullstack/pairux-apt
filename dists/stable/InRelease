@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 12:00:48 GMT
+Date: Sun, 12 Jul 2026 14:08:20 GMT
 SHA256:
- db7ea4ae2779fdcf0b4851a22132eb1547196148dbdcfaef8f4ee018c927402c 639 main/binary-amd64/Packages
- 6f592dc49a8a59c50a314e31e0898388a7533691468b39f486f51786656facce 461 main/binary-amd64/Packages.gz
+ 3eaeec8b1c390bdaaa82f5135e7df1b64437c64e86254d73db54099e7a2bd06d 639 main/binary-amd64/Packages
+ fb9a4042e617bfe8a81635bf622d37469bb123d6d06118c273409755799cf8f8 458 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalOB8QAKCRBpk2+y4h6O
-E7EzAP0TkTWElQXdx9HvqAFYywaeCNaCwc6d8fsmRO4g+YppKAD+LyHqH5tuG01/
-N/8FTe3DMhG0y15VMwR2PL04IZyi5gw=
-=+ojp
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalOf1gAKCRBpk2+y4h6O
+EyyQAQDE6tlX8ZwTAo3rySkbGSQKjYIZ7ncGhNpzIRm92uYXagD9F2slxFhGXaic
+CGTwhIQ++gLpb7MnBZ5B5ngwkB7J7wk=
+=VFDP
 -----END PGP SIGNATURE-----
