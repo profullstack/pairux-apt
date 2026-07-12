@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 09:40:24 GMT
+Date: Sun, 12 Jul 2026 09:49:43 GMT
 SHA256:
- c9f6946c7a0e3f99c577c46e0a4861c06e63f64b9ae9e7cc36866a67777e9410 639 main/binary-amd64/Packages
- 36f159940088e4c6f76c3b228724ee8d6bab642c8145eb36d8042b071f3e899d 461 main/binary-amd64/Packages.gz
+ c52fe4e5baa86e0d75c2629d37ad6397a1a2b5f6b032a74f114c183f31358529 639 main/binary-amd64/Packages
+ a59ef4c43532fdb65ac702a6db4a170e405e7a596816e15b87dab187fad320bb 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNhCQAKCRBpk2+y4h6O
-E4lyAP9Xw7bw4FCv4SAvZLUG9S32rfrxUoby/24GaCdFrT4rjwEAnKCqTICbtwiT
-67/3M7MwObspNTDVCqZHwTiuUzB/JQY=
-=jSs0
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNjOQAKCRBpk2+y4h6O
+ExuWAP4vV3cl3e/BTOY0M8XUgSnKrrXRZbU82uPQSq8wrzUnGgD/SAPXeMcLldQW
+vEa45YPL3596DJ3wM1Sf9HUkMloLmQA=
+=9d+n
 -----END PGP SIGNATURE-----
