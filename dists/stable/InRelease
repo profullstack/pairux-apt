@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 08:57:42 GMT
+Date: Sun, 12 Jul 2026 09:10:21 GMT
 SHA256:
- a789038f1d8e5b4246f9c88d04218d78f0da47c491e8a8f51407a83527d7da65 637 main/binary-amd64/Packages
- accbfcf991a4e5bb8df42027dee947312715d72709948950bef9631d4c40b38d 460 main/binary-amd64/Packages.gz
+ ab73249c7e9187d2ab7a18d1c43cfb460ca6962c375f74abdf773697580c30da 637 main/binary-amd64/Packages
+ 48060f593ac2e539a1371d51978946e7d5026f122b55393773bf41467401ebab 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNXCAAKCRBpk2+y4h6O
-E+gqAQD9jSqC+l1aog6UlOwaVRawVUKPG4/CwP4dd2qCJe8q1AEAiVE32rbiOgje
-qiHduda1tMyadFcTWtzBmG8Kt/XYRwQ=
-=6vIK
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNZ/gAKCRBpk2+y4h6O
+E9k0AP4gmLqi5cWcs2y5YPbXTfzNc+stbEA2hWRYyQeprrIdqgD/QI+IbeRFQ33n
++Et6gd7iaoujfrnoFbyDTSWV2ZAiQw4=
+=U5dP
 -----END PGP SIGNATURE-----
