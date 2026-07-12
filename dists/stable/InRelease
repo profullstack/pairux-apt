@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 10:09:04 GMT
+Date: Sun, 12 Jul 2026 10:25:12 GMT
 SHA256:
- 2ac842874df08a09d89d516da5d9c0cba672656f2e551ed1fe1cb349fc1b79bc 639 main/binary-amd64/Packages
- 60be02c23f59cc4e6d24e73967709464b2fbdbb073aa0963512aa6f76c3712d2 460 main/binary-amd64/Packages.gz
+ 7634006b40a96fc4b05f489041a06db943e42a1ec82bfb6d34b46194fc623307 639 main/binary-amd64/Packages
+ 03ef245e790fa54e422b66fae0ce37bcdd4af7a42e927c6afca2a500d387944d 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNnwQAKCRBpk2+y4h6O
-E5dDAP47WKsS2zrhg0+MwkMNA/w0HXb9SjewQSshPoANvoO5XAEAxneynEW3Y9oU
-EblNV8xySSpPYdPveDkSv5QNzREWrgk=
-=r7S0
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNriQAKCRBpk2+y4h6O
+E4hrAP416KZZsBXoJ17RWHT5iCdntg7Sv0rSwYocx8v/GexcrAD9HVZKHOTxFAH1
+FMBUWoawC2xfbh+pKXOke5EScpXj9AY=
+=tIMD
 -----END PGP SIGNATURE-----
