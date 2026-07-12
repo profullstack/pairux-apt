@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 10:36:22 GMT
+Date: Sun, 12 Jul 2026 10:51:50 GMT
 SHA256:
- 80db7600b7d6b731ad45fc72e0c091572231c848640a197de6053ffc067f69b1 639 main/binary-amd64/Packages
- 273dd5fb9af3d0140d22c2d9479de0404f069a7528c9bb010cb15921e4820224 462 main/binary-amd64/Packages.gz
+ 7a610ce2939f36be5db1573bcfcacc8f02066379a8e8409cbbe55d5ab6efe737 639 main/binary-amd64/Packages
+ 2737ebc991a5eab26a87747fb219e496229a489a3ac8bcac4e633ef19504c014 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNuJwAKCRBpk2+y4h6O
-E5EdAQDZO+O/b3kSRV1UybVkwPqofVdhCeNNWMdNpZIgVFF4bAEAtZFbx+/JbNVY
-MhX8ha+noeWsbeKTjVDCRfklnL8/0w0=
-=QBeb
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalNxxwAKCRBpk2+y4h6O
+E5qFAP9LgOGXyAM7NNWRs8SVkhhhbNJilGgA9P2+gMA/DFPhZwD/e19DnuS+MjHJ
+B/h9UytF/Kpnqj/vL0FJ7HRMF/YHmws=
+=Gr4j
 -----END PGP SIGNATURE-----
