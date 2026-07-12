@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 12 Jul 2026 17:19:22 GMT
+Date: Sun, 12 Jul 2026 17:31:34 GMT
 SHA256:
- d3499b719b26ded5bc7ff6339c8bd0e404bed8ba30b12b9efd4b505ae6fa29f2 639 main/binary-amd64/Packages
- 4e74e3b16377ef81367e2d102692ada342314ff4df1524f0cba932c710141f0c 461 main/binary-amd64/Packages.gz
+ 4206b88103e6cc2053191e28e03dd67cc86fc5aa2f0fa37deef5c70e366d16c0 639 main/binary-amd64/Packages
+ c0df34a1b3186c78c10da76247aaf624341a7b9b094ccf8c0f536ef127579fac 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalPMmwAKCRBpk2+y4h6O
-E7RaAP0esoD0SO/UwFYXmAniTOwA8ba3hyQFe1C5xI+vwiSCIgD/XUAqRX6LcDCm
-RSNTf8qz57/tXzHgsSgq5en71NvzqAk=
-=ZxCb
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCalPPdwAKCRBpk2+y4h6O
+EzPtAP9hZ+TRPW/V3qEGGSA+XwHwg5IEMEbZWwFi4TNmXk372QD/SZtoXaDAjX0G
+4P7fF+sCYRWFhddylbMaMvUFRE4F2gE=
+=zEas
 -----END PGP SIGNATURE-----
