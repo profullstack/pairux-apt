@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sat, 25 Jul 2026 19:50:06 GMT
+Date: Sat, 25 Jul 2026 20:02:00 GMT
 SHA256:
- ee763abf8da8bee735ed3906f10d9fb77f43efc285e353861cff4af6aba2f932 639 main/binary-amd64/Packages
- bf0ea6545c2700596fc32f6e0c212ab9f08968f3537535d5ec142d40d39d03f4 456 main/binary-amd64/Packages.gz
+ 9f189c7c0a992efc310ced8054369448841870d4aa0184ca0c8d5c436302cc69 639 main/binary-amd64/Packages
+ 508b534f2375b6b74618ef674d5d49e43efc1b2f7af8255b92c2b876c1938d5b 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamUTcAAKCRBpk2+y4h6O
-E84PAP9pZulq7ZIhF4HdfoDABPH1tL84BJm7B6cc5soh2HYhGQEAzIaIcMjSwYZf
-tcgOLscGXiO1q6rXuA/bQrGI+NIlSQE=
-=Pb9r
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamUWOgAKCRBpk2+y4h6O
+EwMYAQCd0oyu4fNLw2KpwCwJseIfc4f7Fz8jHStPPN6twlti1gD/cEyvEMLeKejh
+bK6h+JxfQnKQIqRkTGDXcvpiWJmtagI=
+=6/EI
 -----END PGP SIGNATURE-----
