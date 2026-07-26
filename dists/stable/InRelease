@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 26 Jul 2026 12:12:09 GMT
+Date: Sun, 26 Jul 2026 12:46:45 GMT
 SHA256:
- 384583875967a294d570a5a7e7460cb35de5c8b7dfde0796bf662ef5761ddc68 639 main/binary-amd64/Packages
- db16f5b467d5ac822172ce36e8f37b5512521037944184d739de7c6d0046e862 460 main/binary-amd64/Packages.gz
+ 8deb3f84a1f2e4f18782cca9148eec9ca746e778f7215d917b346b529b5ac771 639 main/binary-amd64/Packages
+ d3996369a339bcdd21cd06c520704e30c699d44eb382862846839b6f80177fc6 457 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamX5mgAKCRBpk2+y4h6O
-E+i4AQCDGRynZQnrEqry9kRdL5OiYZOaQ21SGqOSNPeT6NcjDQEA3I/NDEFxdoCd
-/jH4RZjETs3BUHttHv0I8gppxgDQlgw=
-=Hg/C
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamYBtgAKCRBpk2+y4h6O
+E/BzAQCqPEHd4eLPSI0/r73epH5rei+H/Os8RRpR2dSekqyYSwD/U/cDnOvS9AL3
+skx7SUJtvJnq9njFuOkmOCp3qPldLg4=
+=VD1n
 -----END PGP SIGNATURE-----
