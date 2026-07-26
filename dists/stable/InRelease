@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 26 Jul 2026 10:43:34 GMT
+Date: Sun, 26 Jul 2026 11:15:46 GMT
 SHA256:
- 17ca79a56126b3145320153043e558d4d0d9351a427771888f6bd0c3d62602e9 639 main/binary-amd64/Packages
- b4843c662366f351de5fde8b5090adb5eb459ab1ec4b75c0949a1448eac5faf0 462 main/binary-amd64/Packages.gz
+ 6ca8197abf799e7d168f1d5906c26e3c46447acda099dad7e75a6a4a4e8a3bf0 639 main/binary-amd64/Packages
+ f54d245a94ed6e911328cf04b9a606f013aa7a9d25ac5afbcfd6097f05a1b615 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHQEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamXk1wAKCRBpk2+y4h6O
-EyDVAQCHf8HzAa6GQcCApR3ko6qRR3vFRVNT53TzGQ21WQoxRQD4gYgm4y2GLYAd
-1yMoAmQhTiiIV4I90kQWH5j86w+4AA==
-=TT4c
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamXsYwAKCRBpk2+y4h6O
+E146APsG8zyiqWpsegUkovq/jevY6cPXN2NC/VrL+DIAIlOICgEAt55Z5Sam4Xaa
+3Cp7hkl8obMkbmmGD24kNqnSkmfjYAk=
+=U5rB
 -----END PGP SIGNATURE-----
