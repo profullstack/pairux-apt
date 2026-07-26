@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 26 Jul 2026 11:24:02 GMT
+Date: Sun, 26 Jul 2026 12:12:09 GMT
 SHA256:
- 96bdb0769064fe90d7f1f74f161961190faf42454ec2cc88ce83a39b49781046 639 main/binary-amd64/Packages
- 5d71a3bd041ca39be3e4f483d0287e7d0d550585bac709d04c73849a0ca5749b 460 main/binary-amd64/Packages.gz
+ 384583875967a294d570a5a7e7460cb35de5c8b7dfde0796bf662ef5761ddc68 639 main/binary-amd64/Packages
+ db16f5b467d5ac822172ce36e8f37b5512521037944184d739de7c6d0046e862 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamXuVAAKCRBpk2+y4h6O
-E8n8AP0Z1kbtimqakCkwSwPu7rQlD7L33XF0gYOZBfQYtn7T3gEA9Prlx5o/2fNH
-/6nvIvH+ApsPIS3oJ4j2av5uQVnz8g4=
-=KYpA
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamX5mgAKCRBpk2+y4h6O
+E+i4AQCDGRynZQnrEqry9kRdL5OiYZOaQ21SGqOSNPeT6NcjDQEA3I/NDEFxdoCd
+/jH4RZjETs3BUHttHv0I8gppxgDQlgw=
+=Hg/C
 -----END PGP SIGNATURE-----
