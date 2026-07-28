@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 28 Jul 2026 00:09:10 GMT
+Date: Tue, 28 Jul 2026 00:43:54 GMT
 SHA256:
- d4df3ef406dda0c8370b51a78ae8fd0fa4a42729209bd5557d007aed5dbce8b8 639 main/binary-amd64/Packages
- 12965542054c9f909065078ee817537c3c684cd86270e0f36b9d0c6b12c19216 461 main/binary-amd64/Packages.gz
+ 80a9910de7d9e2ae2f1c6c754e3b9da646d4f86ff566394535e32b3d354c7f5d 639 main/binary-amd64/Packages
+ a15eecf011fb9e39f1693c3fd261be25d10efff63e01a7f17d7ed4fdcf3b2706 458 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamfzJwAKCRBpk2+y4h6O
-Ey/7AQCc9A8rETZYITcZu3Y3TbO8yUgTv+Fous7k7k7R1xoL8AD+PZlFu57T5mvU
-Um/EBw6HGPr0sZa34XO1mCk82wjUfwg=
-=GsQ8
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamf7SwAKCRBpk2+y4h6O
+E6BdAP9OuteKS5hB6MHw68S2OK5tADsVyYvtDEvWHusFG0qKVQEA+Btc5R+PyiZ4
+yX59rhYeOk7FfXqENn/8twwx9J9CaQY=
+=h0hi
 -----END PGP SIGNATURE-----
