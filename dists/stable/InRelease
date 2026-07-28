@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 28 Jul 2026 00:43:54 GMT
+Date: Tue, 28 Jul 2026 01:23:50 GMT
 SHA256:
- 80a9910de7d9e2ae2f1c6c754e3b9da646d4f86ff566394535e32b3d354c7f5d 639 main/binary-amd64/Packages
- a15eecf011fb9e39f1693c3fd261be25d10efff63e01a7f17d7ed4fdcf3b2706 458 main/binary-amd64/Packages.gz
+ e98d347d5bf19a23256cbb4fc59317993517893e90f70b116e58f39e0ed33c29 639 main/binary-amd64/Packages
+ 804129b8dd4ed1fd81c2b5170dd253ac6e58bf0397204d109431e4398b8d6cd9 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamf7SwAKCRBpk2+y4h6O
-E6BdAP9OuteKS5hB6MHw68S2OK5tADsVyYvtDEvWHusFG0qKVQEA+Btc5R+PyiZ4
-yX59rhYeOk7FfXqENn/8twwx9J9CaQY=
-=h0hi
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCamgEqAAKCRBpk2+y4h6O
+E2pLAQDJHajY35KlJMWfxaQmZqFMCvvYupUtGS6Ppi4SQk1OTQD/a/BXWqrSyE97
+eo5xHwioBeVVGb9mcwmFp37xGqQ1EAQ=
+=9HpH
 -----END PGP SIGNATURE-----
