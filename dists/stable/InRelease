@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 09 Aug 2026 12:03:40 GMT
+Date: Sun, 09 Aug 2026 13:36:28 GMT
 SHA256:
- fc6413d49b1edbf8eb4be81ab44dddda33e3bf1967ae3e0317d32423c7dc6e90 639 main/binary-amd64/Packages
- cb3ccd662a29f4bc18b8c3bbe4ed75cdcba6cfe9f084daa40e6885f937557a80 460 main/binary-amd64/Packages.gz
+ c7fabc71986c706213a2ac88319d40d3429a75b591a4f901a885c77f69ccdf0b 639 main/binary-amd64/Packages
+ fc915cc9802da7520c4933290550d72459e3c32c1944b649f246f49a4ce8794e 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCanhsnQAKCRBpk2+y4h6O
-E7DHAP9B4bJq0Mv4D4wWng8gAa10LT0olQ29FmRiLm2uITtyoQEAhqPJhr9kg4nI
-/4DZObGwoN/L4MzV4C8fuUxvrUaROAo=
-=Vv5I
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaniCXQAKCRBpk2+y4h6O
+E83hAP0dqy9TNpE8B0q/CM8cGQhnuOBlSB0j5oK4lUKOBZxF5gD8D5/8l6veuL52
+WPsEjls0lY3BemNPKAGV4ND4poA9tgU=
+=N74t
 -----END PGP SIGNATURE-----
