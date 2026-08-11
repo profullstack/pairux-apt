@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 11 Aug 2026 09:36:17 GMT
+Date: Tue, 11 Aug 2026 11:17:26 GMT
 SHA256:
- 5533276b2db594ff9c5161a305a2732da74763e8f8623b3f477b8d7f31c4ed69 639 main/binary-amd64/Packages
- 0679a5e77a9b2bdd29ee65230e8c82487dbf06b314f54285c1e8ae1bcdffabc2 459 main/binary-amd64/Packages.gz
+ 38862f7c35b74e780854037d595b23a2283ae4a423bc397de4f339c6502408f9 639 main/binary-amd64/Packages
+ 90232937397c0e3a6bada372902c00689c4360ae8c22ad558c379068e819689e 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCanrtEgAKCRBpk2+y4h6O
-E1IeAP9Uwq83N+InXES9sKB7tiLLvLHZa39REaVl0VXu2/Oj+AD8D7yA7yMhUrEd
-tSEQAXkXz5EipdJDnPR+OrnHuQeI8w8=
-=a9Ym
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCansExwAKCRBpk2+y4h6O
+EyI3AQCRjWCzuXRGETLZtBFiSrAgO5dyYtuB58GIYUiPssyWWQD9EawU5l7uwXB9
+3hOJqVoNeiryov//pSNzHKcWjoGaGgI=
+=TaPL
 -----END PGP SIGNATURE-----
