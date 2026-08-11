@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 11 Aug 2026 12:46:46 GMT
+Date: Tue, 11 Aug 2026 13:08:37 GMT
 SHA256:
- 1f53aa7edd8cfc96f20d5a568d023b32a3136abefe19e1eb261e361ebe341b37 639 main/binary-amd64/Packages
- 5b9b7be7e00f0cf00b3416aa8f303a4255bc7c6883c61d9df0e7f9799513017b 460 main/binary-amd64/Packages.gz
+ 773295d84c7e21036b4b128af2355234f3e508963836afb83f3ce83f65879067 639 main/binary-amd64/Packages
+ c85ee2b84cb39a7fbf3a9cb94deeb2800abd9e30acf2655ac1a422369dc0858d 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCansZuAAKCRBpk2+y4h6O
-EzBgAQC88/l1Rz3gs9dVaqs54LzpBY44i05MdGA2wVD5Ll1NpAEA9hVAL97btB8X
-331/oqKwFmqLDS8/Y8j2d+A2AX+Rhww=
-=O0Ha
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCanse1gAKCRBpk2+y4h6O
+E/a2APwNkPWMyo2TQHW6ZqE7OeLqzt3N5vBx0eeDg0KVLzuUowD8C+Urn/VU7ozt
+gvnE3FH/jXIsNKW0dTs3WgCDIUOtWAY=
+=H8cA
 -----END PGP SIGNATURE-----
