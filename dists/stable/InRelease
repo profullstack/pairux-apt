@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 11 Aug 2026 15:31:53 GMT
+Date: Tue, 11 Aug 2026 18:36:44 GMT
 SHA256:
- 639c17dc25701da7201d55dff8ec676ade0ff101c5e51eb5cb180583e204a1da 639 main/binary-amd64/Packages
- 420d2bde9b5f21c2530215eabc427dc0c4ce8e01156b90e2a44fc48abf99d051 458 main/binary-amd64/Packages.gz
+ 6e878a0ff4c50e6ff0c30a58e51730a7c92aa15f6f16c552ddf5be8d2e0e95d7 639 main/binary-amd64/Packages
+ 618206a13a6cbc16d9e124ac850c8e7b5b7461967353ba840f629a04c29ca403 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCantAagAKCRBpk2+y4h6O
-E8BbAP4mBMZNnRIfCwWugQliQsNqNwGCk9AqJDcPZtQ4eKrceAD/VJ5cwZ1N1+Kt
-r/kbBmhhT5V9qInHP5RHT6MG/Nw5iQk=
-=ekKR
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCantrvQAKCRBpk2+y4h6O
+EzGAAQDp0hVH4xXuk1f0Up2iSzb2Z9ti96VubCmSMuWDxiZFwwD6AxuWPcLCjpKL
+XhghZukYPn6dl6X3ezo+Vvsnwht8Gwc=
+=mom4
 -----END PGP SIGNATURE-----
