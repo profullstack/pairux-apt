@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Tue, 11 Aug 2026 13:08:37 GMT
+Date: Tue, 11 Aug 2026 13:57:11 GMT
 SHA256:
- 773295d84c7e21036b4b128af2355234f3e508963836afb83f3ce83f65879067 639 main/binary-amd64/Packages
- c85ee2b84cb39a7fbf3a9cb94deeb2800abd9e30acf2655ac1a422369dc0858d 460 main/binary-amd64/Packages.gz
+ 011097d1c3feb675a6ba06588a09ee4d2380c5ce497cd4eafcc94565768008ca 639 main/binary-amd64/Packages
+ 7d5ece399cb3e8a4ac6966ac1985d5a19a7425f0d47b9e0d0ae1cd571dd382f2 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCanse1gAKCRBpk2+y4h6O
-E/a2APwNkPWMyo2TQHW6ZqE7OeLqzt3N5vBx0eeDg0KVLzuUowD8C+Urn/VU7ozt
-gvnE3FH/jXIsNKW0dTs3WgCDIUOtWAY=
-=H8cA
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCansqOQAKCRBpk2+y4h6O
+E2CnAP0Uo3HsEswqzi9+vSlcpyhlfUqrlBO60VMXPGD9OCLDLQEA3tsvXjWOqbBl
+MKKDJc1hdHrSk30WpW2mAV8OANBsowk=
+=UWsE
 -----END PGP SIGNATURE-----
