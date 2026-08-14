@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 13 Aug 2026 11:55:24 GMT
+Date: Fri, 14 Aug 2026 00:11:30 GMT
 SHA256:
- 292b395c9319ada17e21288c6abc823a685e1ef859c6f18acbe8a5fc817db2c3 639 main/binary-amd64/Packages
- 8decf8734cd5c942aaaac2313d385bc91e8550856e4c9d96abfe4f13880d63e8 460 main/binary-amd64/Packages.gz
+ 91f6e14bc62ed0f658574e537b2430f6cbf4b44d49c7c34b9ba1572adf7d19b8 639 main/binary-amd64/Packages
+ f96b4889dca29febcd3f78ec0bdb95035730f3f1d34bb4b70394d8559e47388d 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCan2wrQAKCRBpk2+y4h6O
-E74hAP99Iqq4y6yYfUUM5HDZWQyV1O7TV4MIPl6j2XhLlvj77wD9F0jEdfM7PEcL
-Z22he6B/SwFfDIs2wA4HDvgUiPlONgk=
-=x7gG
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCan5dMwAKCRBpk2+y4h6O
+E6qjAQC9IPDH1OCCiU2GEy8VIRvMltpeu2pHP9GqBSCZ+TMwLAD/Z0yByKYyeRe4
+s+LiBSK4UujLsSlt3e7woCE+olKtvQw=
+=7irB
 -----END PGP SIGNATURE-----
