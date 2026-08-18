@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Fri, 14 Aug 2026 00:11:30 GMT
+Date: Tue, 18 Aug 2026 09:33:10 GMT
 SHA256:
- 91f6e14bc62ed0f658574e537b2430f6cbf4b44d49c7c34b9ba1572adf7d19b8 639 main/binary-amd64/Packages
- f96b4889dca29febcd3f78ec0bdb95035730f3f1d34bb4b70394d8559e47388d 459 main/binary-amd64/Packages.gz
+ 9195f8e07c539b00b0aa64001b6e90435abb58f74bbf04742b08e5ab5adc7352 639 main/binary-amd64/Packages
+ ea372174cda5a51dd94881996ae1436f0d5826cfd74eb2e673f585d16a105ec9 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCan5dMwAKCRBpk2+y4h6O
-E6qjAQC9IPDH1OCCiU2GEy8VIRvMltpeu2pHP9GqBSCZ+TMwLAD/Z0yByKYyeRe4
-s+LiBSK4UujLsSlt3e7woCE+olKtvQw=
-=7irB
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaoQm1wAKCRBpk2+y4h6O
+E48pAQDudubm+Sxsp7zWhVQA5qLMO/POomOMssYMiStM4dkNsgD/b3Q2kDoHrNqd
+dtYMal1LeCTe8wJuYR9qR/a2CBEnKQY=
+=hoNO
 -----END PGP SIGNATURE-----
