@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Fri, 28 Aug 2026 20:17:56 GMT
+Date: Sat, 29 Aug 2026 07:32:28 GMT
 SHA256:
- c181a0e6d59301faf9c6d5e17d989733edd5d96457818f687316a979004a214b 639 main/binary-amd64/Packages
- b5b27dc513dd5b832fbc1c64f7201a403a769e5cc358d16538bccb403aed276f 459 main/binary-amd64/Packages.gz
+ 5b857e8a96231f565d3cdc07550137ff7a27dd06ac057a350b437941944b51d7 639 main/binary-amd64/Packages
+ 0eaec1f304aab9420ceadb7dc2b7c563099eeacc96b7a9c87b44b94b89ae55cb 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapHs9QAKCRBpk2+y4h6O
-E5bbAP9UIeKHygQIkqzwR718XNpwUykf8Y8btoF9zDZdOUF53wD/bt/cdJUc3kOc
-jGt+1eeQd6Zqt3Jey5O1ZYf+Ew/3ZQY=
-=pWft
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapKLDQAKCRBpk2+y4h6O
+E67dAP9Zw2/WkokLnZEYIfMXrGwIqY4raxUS0odZkKUKiYpXSgEAk6YqKDBXgzUl
+4VLUI5PaZW0//qYLSpCHmL9vkc0HEQU=
+=CH19
 -----END PGP SIGNATURE-----
