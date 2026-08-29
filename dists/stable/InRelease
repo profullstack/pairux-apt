@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sat, 29 Aug 2026 12:01:50 GMT
+Date: Sat, 29 Aug 2026 16:19:20 GMT
 SHA256:
- 81cbc6bc77ab00b862b1ff263fc4538fcc8bd7b84728e9db3ddb57b19db01533 639 main/binary-amd64/Packages
- 2f0d29c552578a0326a2661cb8f57557affe73cf370778ac00046669a32062de 460 main/binary-amd64/Packages.gz
+ a245a8397b0c95e1f826ba503b91934f95d83ce526f5c8d042313efeffeb80a3 639 main/binary-amd64/Packages
+ 7a104c6c5e418dd6a35552a1578319d8e425fb507d46e68b7820bd626ab022a2 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapLKLwAKCRBpk2+y4h6O
-E1QOAQCeG3gS0QjaJHcyIexfmPo0lhTvgp8oX8uN+yM6Vb/IMAD/SWG0i50BU33y
-AOqqD+SVzoGf1aps2Su/pfzsIOm2Zgs=
-=/x5R
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapMGiQAKCRBpk2+y4h6O
+E1rfAP9PtkQ6MZUDJNF6ldXU3qWJ4n4UGqTZEgVArQi0WoKE6QEAzw+txQk2owhu
+NzwC243YvHN2TvKswmFHJeG9xPKn5wA=
+=mtRu
 -----END PGP SIGNATURE-----
