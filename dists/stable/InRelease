@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sat, 29 Aug 2026 16:19:20 GMT
+Date: Tue, 01 Sep 2026 19:23:47 GMT
 SHA256:
- a245a8397b0c95e1f826ba503b91934f95d83ce526f5c8d042313efeffeb80a3 639 main/binary-amd64/Packages
- 7a104c6c5e418dd6a35552a1578319d8e425fb507d46e68b7820bd626ab022a2 460 main/binary-amd64/Packages.gz
+ e58595eb13318847d2c4fa01fd4f2f1ac2cdc8d0e17f969c58e798a04f2df41f 639 main/binary-amd64/Packages
+ 0413ed90c8521838b4e1209ae3fc55107c4878d28568a99063de3162041efa8b 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapMGiQAKCRBpk2+y4h6O
-E1rfAP9PtkQ6MZUDJNF6ldXU3qWJ4n4UGqTZEgVArQi0WoKE6QEAzw+txQk2owhu
-NzwC243YvHN2TvKswmFHJeG9xPKn5wA=
-=mtRu
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCapcmRAAKCRBpk2+y4h6O
+E34GAQC+DGL95A6bedV1A+hW1EI7goYO2x78eTtiNkkeUImp1gEAw62T/soDGWIJ
+GDzqctUKGY/T9kJK9HP7IeSegskyYwc=
+=Axar
 -----END PGP SIGNATURE-----
