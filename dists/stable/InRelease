@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Thu, 24 Sep 2026 10:03:39 GMT
+Date: Sun, 04 Oct 2026 08:31:29 GMT
 SHA256:
- a401ecdc0bf009747412ff0f208181a51681e7c43dcf0135ee28a13827c22536 639 main/binary-amd64/Packages
- 8df317deef4e7c1fe0ee9f00a00c4fc6abe78af45146085f921c52dbc37619db 461 main/binary-amd64/Packages.gz
+ b972a11ed8ffc0a51bfb4a581d8ac3a67c0095301a0ccef2edfadd421d90dea9 639 main/binary-amd64/Packages
+ 8f9b5da84f54c10b2002fd3e3179e82a421a937513dc36ae7813709537639c8d 459 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCarT1fAAKCRBpk2+y4h6O
-E1aeAQCQwaj6lhQBv12eJgX7CHadmArbjoavLN9Zl+o4rUMgLgD+N7w2sZDoDEWH
-5tPxcgiTP/sMYlpxF6TMni5cld2/+g0=
-=XMen
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCasIO4gAKCRBpk2+y4h6O
+E+VGAP0UgZ9r8sar6QQIDUrKccxnetq72OKmYLgWDdTrSOLRlwD+LGyocnBsDdQJ
+5/V89AKXNBYY2HY141lZaj1VmoC5DgQ=
+=VlhI
 -----END PGP SIGNATURE-----
