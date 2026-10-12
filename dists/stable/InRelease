@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Fri, 09 Oct 2026 20:10:39 GMT
+Date: Mon, 12 Oct 2026 22:06:00 GMT
 SHA256:
- c91b60a50f0097da785670944d2824fc6a3d645a2290dbce79d80a25a55614ac 639 main/binary-amd64/Packages
- fec8a35780d1623f36c46227f4db91bb556a266b38314906131086af95592a75 462 main/binary-amd64/Packages.gz
+ 8d8d07891a232f542c68091e3d815af28f79e37c4dd7461ba9238357f3b02d8b 639 main/binary-amd64/Packages
+ 137238aa0530c759cac4ea7990a19c56d53354bd0b62c87dca19700a419f1c43 460 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCaslKQQAKCRBpk2+y4h6O
-EzqOAP9KAVFQUF1ub/xwRmYvWOJgS8TktvmgtCt9ABOBNRkZ9AEApUby8hFIrugA
-lksWlbJB7wHnWqo5r3BchFLkfJzrIww=
-=8Sl+
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCas1ZygAKCRBpk2+y4h6O
+E9IsAP9V0XHu4TPZK2wIqWGUgkJbuGh0y3glntp4U5TE/j3ZXwEAmZvyn+2BtZmv
+ZMHoVT1pa7OFQ9m3RzpRT5r9G8U2Eg4=
+=Ivcr
 -----END PGP SIGNATURE-----
