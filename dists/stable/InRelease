@@ -8,14 +8,14 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PairUX APT Repository
-Date: Sun, 22 Nov 2026 20:34:11 GMT
+Date: Wed, 25 Nov 2026 14:03:38 GMT
 SHA256:
- 3e601de0f9790afa67a57f9705b39dbf3f554e26e42dd735aaf311f5d34f8c84 639 main/binary-amd64/Packages
- c112a47464d1f8be0bc5db63e9fcc2456622beb6469fba9781a22bd2ac8c675f 460 main/binary-amd64/Packages.gz
+ 00f89e894e181611e145f8951749275d28b4bbeee57d644e36af4873cbfbf13c 639 main/binary-amd64/Packages
+ cc59daef357906399464a0f2ebc19a64d7c68b1b19bf06aaf75291ce195f5233 461 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCawNRxAAKCRBpk2+y4h6O
-E8rkAQDDkmKrlsLJZqiMveK706/qO6GwP5MImMiqpuYBK/ifCwEA4V3t7J8IqKTA
-UK0OGhl/wO+tiSm10ITDhF43sn6a5w0=
-=FHce
+iHUEARYKAB0WIQTiUAaq2cADcHGlRUZpk2+y4h6OEwUCawbquwAKCRBpk2+y4h6O
+E/JjAP9WdQYaTiwZrX+N/k1dUVNDQT2ZBEKt9975MrfI8WIkWgEAzDsiQuwfGz+W
+yGCYDBI7YqUefnFSw1fjQkQ3Z6qLvwQ=
+=BXMO
 -----END PGP SIGNATURE-----
